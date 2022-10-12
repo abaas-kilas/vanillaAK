@@ -1,3 +1,3 @@
-# vanillaBEY
+# vanillaAK
 
-This is a Node JS demo project 
+This is a Node JS demo project
