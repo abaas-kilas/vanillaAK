@@ -9,7 +9,7 @@ import routes from './source/routes/route.js';
 
 // constant variables 
 const app = express();
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 5001;
 const HOST = '0.0.0.0';
 
 // body parser setup for Express v4.16.0 and higher
