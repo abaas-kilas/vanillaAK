@@ -54,7 +54,7 @@ export const getWeekDays = (req, res) => {
     });
 }
 // get list of people -- This can come from a database and what's defined in model.js
-// but for the purspuse of this demo, I'm going o juts type a couple of names
+// but for the purspuse of this demo, I'm going to just type a couple of names
 export const getPeople = (req, res) => {
     res.json([
         {
@@ -80,6 +80,12 @@ export const getPeople = (req, res) => {
             LastName: 'Rakitin',
             title: 'Software Engineer',
             LinkedIn: 'https://www.linkedin.com/in/kirill-rakitin/'
+        },
+        {
+            FirstName: 'Abaas',
+            LastName: 'Kilas',
+            title: 'Software Engineer',
+            LinkedIn: 'https://www.linkedin.com/in/abaas-kilas/'
         }
     ]);
 }
