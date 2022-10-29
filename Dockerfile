@@ -37,4 +37,4 @@ COPY . /app
 
 EXPOSE 5001
 
-CMD [ "babel-node", "app.js" ]
+CMD [ "babel-node", "app.js" ] 
