@@ -1,5 +1,6 @@
 FROM node
-LABEL authors="Abaas Kilas"
+LABEL author="Abaas Kilas"
+LABEL email="abaaskilas@gmail.com"
 
 # update dependencies and install curl
 RUN apt-get update && apt-get install -y \
