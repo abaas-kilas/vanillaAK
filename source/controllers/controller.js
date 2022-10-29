@@ -24,6 +24,7 @@ export const getTodayDate = (req, res) => {
         today: newdate
     });
 }
+
 // get list of month names
 export const getMonthsName = (req, res) => {
     res.json({
@@ -41,6 +42,7 @@ export const getMonthsName = (req, res) => {
         12: 'December'
     });
 }
+
 // get list of days of the week
 export const getWeekDays = (req, res) => {
     res.json({
