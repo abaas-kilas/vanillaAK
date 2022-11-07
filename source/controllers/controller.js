@@ -68,7 +68,13 @@ export const getPeople = (req, res) => {
             FirstName: 'David',
             LastName: 'Braun',
             title: 'Software Engineer',
-            LinkedIn: 'https://www.linkedin.com/in/bernard-ngandu/'
+            LinkedIn: 'https://www.linkedin.com/in/david-braun777/'
+        },
+        {
+            FirstName: 'Abaas',
+            LastName: 'Kilas',
+            title: 'Software Engineer',
+            LinkedIn: 'https://www.linkedin.com/in/abaas-kilas/'
         },
         {
             FirstName: 'Keji',
