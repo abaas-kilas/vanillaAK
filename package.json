@@ -1,7 +1,7 @@
 {
-  "name": "vanillabeyk",
+  "name": "vanillaak",
   "version": "1.0.0",
-  "description": "demo nodejs backend application",
+  "description": "demo nodejs application",
   "type": "module",
   "main": "app.js",
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kirillrakitin/vanillaBEYk.git"
+    "url": "git+https://github.com/abaas-kilas/vanillaAK.git"
   },
   "keywords": [
     "node",
@@ -19,12 +19,12 @@
     "express",
     "babel"
   ],
-  "author": "Kirill Rakitin",
+  "author": "Abaas Kilas",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kirillrakitin/vanillaBEYk/issues"
+    "url": "https://github.com/abaas-kilas/vanillaAK/issues"
   },
-  "homepage": "https://github.com/kirillrakitin/vanillaBEYk#readme",
+  "homepage": "https://github.com/abaas-kilas/vanillaAK.git#readme",
   "dependencies": {
     "babel-cli": "^6.26.0",
     "babel-loader": "^8.2.5",
